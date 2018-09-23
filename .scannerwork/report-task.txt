@@ -1,0 +1,6 @@
+projectKey=exclaimadeasy
+serverUrl=http://localhost:9000
+serverVersion=6.7.5.38563
+dashboardUrl=http://localhost:9000/dashboard/index/exclaimadeasy
+ceTaskId=AWYEb4ngHTzC2Rnr7BeK
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWYEb4ngHTzC2Rnr7BeK
